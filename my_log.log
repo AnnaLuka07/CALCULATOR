@@ -29,3 +29,58 @@
 27-01-2023 20:47:53 - user_interfase - INFO - menu_calk - Stop program
 27-01-2023 20:48:49 - main - INFO - <module> - start program
 27-01-2023 20:50:42 - main - INFO - <module> - start program
+27-01-2023 21:10:07 - main - INFO - <module> - start program
+27-01-2023 21:10:14 - user_interfase - INFO - menu_select - Stop program
+27-01-2023 21:10:22 - main - INFO - <module> - start program
+29-01-2023 13:24:24 - main - INFO - <module> - start program
+29-01-2023 13:24:28 - user_interfase - INFO - menu_select - Stop program
+29-01-2023 13:24:30 - main - INFO - <module> - start program
+29-01-2023 19:27:03 - main - INFO - <module> - start program
+29-01-2023 19:27:14 - main - INFO - <module> - start program
+29-01-2023 19:28:20 - main - INFO - <module> - start program
+29-01-2023 19:28:51 - main - INFO - <module> - start program
+29-01-2023 19:48:09 - main - INFO - <module> - start program
+29-01-2023 19:48:25 - main - INFO - <module> - start program
+29-01-2023 19:48:41 - main - INFO - <module> - start program
+29-01-2023 19:50:58 - main - INFO - <module> - start program
+29-01-2023 19:51:28 - main - INFO - <module> - start program
+29-01-2023 19:51:34 - user_interfase - INFO - menu_select - Stop program
+29-01-2023 19:51:37 - main - INFO - <module> - start program
+29-01-2023 19:51:47 - user_interfase - INFO - menu_calk - Stop program
+29-01-2023 19:51:51 - main - INFO - <module> - start program
+29-01-2023 19:51:59 - user_interfase - ERROR - menu_select - Err
+29-01-2023 19:52:08 - excep - ERROR - button_click - Err
+29-01-2023 19:58:24 - main - INFO - <module> - start program
+29-01-2023 19:58:31 - user_interfase - ERROR - menu_select - Err
+29-01-2023 19:58:34 - main - INFO - <module> - start program
+29-01-2023 19:58:37 - user_interfase - ERROR - menu_select - Err
+29-01-2023 19:58:39 - main - INFO - <module> - start program
+29-01-2023 19:58:41 - user_interfase - ERROR - menu_select - Err
+29-01-2023 19:58:44 - main - INFO - <module> - start program
+29-01-2023 19:58:49 - excep - ERROR - button_click - Err
+29-01-2023 19:58:55 - main - INFO - <module> - start program
+29-01-2023 19:58:58 - user_interfase - INFO - menu_select - Stop program
+29-01-2023 19:59:00 - main - INFO - <module> - start program
+29-01-2023 19:59:05 - user_interfase - INFO - menu_select - Stop program
+29-01-2023 19:59:17 - main - INFO - <module> - start program
+29-01-2023 19:59:40 - user_interfase - ERROR - menu_select - Err
+29-01-2023 19:59:45 - main - INFO - <module> - start program
+29-01-2023 19:59:47 - user_interfase - ERROR - menu_select - Err
+29-01-2023 20:00:01 - main - INFO - <module> - start program
+29-01-2023 20:00:05 - user_interfase - ERROR - menu_select - Err
+29-01-2023 20:00:09 - main - INFO - <module> - start program
+29-01-2023 20:00:11 - user_interfase - ERROR - menu_select - Err
+29-01-2023 20:01:14 - main - INFO - <module> - start program
+29-01-2023 20:02:25 - main - INFO - <module> - start program
+29-01-2023 20:03:06 - main - INFO - <module> - start program
+29-01-2023 20:03:39 - main - INFO - <module> - start program
+29-01-2023 20:03:49 - main - INFO - <module> - start program
+29-01-2023 20:04:11 - main - INFO - <module> - start program
+29-01-2023 20:04:36 - user_interfase - INFO - menu_select - Stop program
+29-01-2023 20:04:40 - main - INFO - <module> - start program
+29-01-2023 20:06:28 - user_interfase - INFO - menu_calk - Stop program
+29-01-2023 20:06:30 - main - INFO - <module> - start program
+29-01-2023 20:06:42 - user_interfase - INFO - menu_calk - Stop program
+29-01-2023 20:06:44 - main - INFO - <module> - start program
+29-01-2023 20:07:54 - main - INFO - <module> - start program
+29-01-2023 20:07:59 - excep - ERROR - button_click - Err

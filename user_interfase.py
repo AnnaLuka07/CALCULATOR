@@ -6,7 +6,7 @@ def view_data(data):
     print(data)
 
 def get_value():
-    return float(input('Введите число '))
+    return float(input('Input rational number: '))
 
 def menu_calk():
     while True:
@@ -35,7 +35,7 @@ def menu_calk():
             exit()
         else:
             logg.logging.error('Err')
-            print('Error. Input correct namber!!!')
+            print('Error. Input correct number!!!')
             menu_calk()
 
 
@@ -61,12 +61,13 @@ def menu_select():
         exit()
     else:
         logg.logging.error('Err')
-        print('Error. Input correct namber!')
+        print('Error.')
+        
 
 
 def get_complex_numb():
-    return int(input('Введите число '))
-
+    z = complex(input('Input complex number: '))
+    return z
 
 
 
